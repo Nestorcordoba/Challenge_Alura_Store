@@ -1,4 +1,4 @@
-# 📊 Alura Store – Análisis de Desempeño Comercial
+# Alura Store – Análisis de Desempeño Comercial
 
 Este proyecto consiste en un análisis exploratorio y visual de datos de ventas de **Alura Store**, una tienda ficticia con 4 sucursales (Lojas 1 a 4). El objetivo es identificar cuál de las tiendas presenta un menor rendimiento comercial para recomendar su venta 
 ---
@@ -23,17 +23,14 @@ alura-store/ ├── data/ │ ├── loja1.csv │ ├── loja2.csv │
 ---
 ##  Ejemplos de gráficos e insights
 ### Ingresos Totales por Loja
-![Ingresos](images/facturacion_total.png)
 
 **Insight:** Loja 4 registró los ingresos más bajos, incluso considerando el costo de envío como ingreso.
 ---
 ### Evaluación Promedio de Clientes
-![Evaluación](images/evaluacion_clientes.png)
 
 **Insight:** Loja 3 tiene la mejor evaluación. Loja 1 está por debajo de 4.0.
 ---
 ### Relación Frete vs Evaluación
-![Frete vs Evaluación](images/flete_vs_evaluacion.png)
 
 **Insight:** A mayor costo de envío, hay tendencia a menor evaluación.
 ---
