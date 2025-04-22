@@ -21,6 +21,7 @@ alura-store/ ├── data/ │ ├── loja1.csv │ ├── loja2.csv │
 - `README.md`: documentación del proyecto.  
 - `requirements.txt`: dependencias necesarias para ejecutar el análisis.
 ---
+# En el punto 1. Análise do faturamento podras analizar por tipo de Envio_Gratis(valor absorvido por la loja) o el tipo de Envio_Pago(valor absorvido por el cliente)
 ##  Ejemplos de gráficos e insights
 ### Ingresos Totales por Loja
 
